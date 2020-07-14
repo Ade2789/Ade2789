@@ -1,5 +1,7 @@
-### Hello I'm Ade 👋
+### Hello I'm Ade  👋
 
+
+##S1 Teknik Informatika
 <!--
 **Ade2789/Ade2789** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
